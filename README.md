@@ -25,4 +25,4 @@ To Run Test Suite:
 
 
 ## Learn more
-[Create React App] (https://create-react-app.dev/docs/getting-started)
+[Create React App](https://create-react-app.dev/docs/getting-started)
