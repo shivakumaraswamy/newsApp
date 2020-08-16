@@ -1,0 +1,28 @@
+
+.articleImg{
+    width: 280px;
+    min-height: 100px;
+    float: left;
+    margin-right: 10px;
+}
+
+ul{
+    list-style-type: none;
+}
+li{
+    clear: both;
+    padding: 10px;
+    text-align: left;
+}
+.dateContainer{
+    margin:5px 0;
+    font-size:14px;
+}
+.title{
+    text-decoration: none;
+    color: #000000;
+}
+.title:hover{
+    color: #1a73e8;
+    text-decoration: underline;
+}
